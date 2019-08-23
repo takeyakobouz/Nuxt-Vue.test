@@ -5,6 +5,7 @@
 	cd Nuxt-Vue
 	npm run build
 	npm run start
+  npm run dev
 
 
 ## Build Setup
